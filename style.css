@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+    background-color: #15CBE3;
+}
+
+.title{
+    font-size: 45px;
+    color: #FFF;
+}
+
+.title2{
+    font-size: 30px;
+    color: #FFF;
+}
+
+.inputNumber{
+    width: 100px;
+    height: 30px;
+    padding: 3px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  
+}
+
+.buttonText{
+    width: 200px;
+    height: 50px;
+    padding: 3px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    background-color: #1F63C9;
+    color: #FFF;
+}
+
+.spanText{
+    font-size: 25px;
+    color: #FFF;
+  
+}
